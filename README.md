@@ -4,9 +4,9 @@ I'm a Top Rated Plus developer on Upwork with over 10 years of full-time develop
 
 ## Expert in Dynamic Websites & Custom Solutions
 
-# Page Builders: Elementor, Bricks, Gutenberg 
-# Specialized in: Crocoblock Suite & Advanced functionality for Dynamic Webites
-# Focus: Advanced Functionality, Dynamic Websites, Full-Stack Development & Performance Optimization
+Page Builders: Elementor, Bricks, Gutenberg<br />
+Specialized in: Crocoblock Suite & Advanced functionality for Dynamic Webites<br />
+Focus: Advanced Functionality, Dynamic Websites, Full-Stack Development & Performance Optimization<br />
 
 ### 🚀 JetEngine & Dynamic Development Expertise
 
