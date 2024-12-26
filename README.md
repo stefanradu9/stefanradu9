@@ -74,47 +74,23 @@ Focus: Advanced Functionality, Dynamic Websites, Full-Stack Development & Perfor
 - Consistently maintained 90+ PageSpeed scores on complex dynamic websites
 - Developed scalable solutions handling large datasets with optimal performance
 - Created custom solutions for enterprise-level clients with complex requirements
-<h3 align="left">
-  Client Reviews
-</h3>
 
-<table>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "Excellent communication and clarification of project goals. Timely delivery of excellent end product. Highly recommended. Will work with Stefan again!"
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "Stefan did a good job very quickly"
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "Stefan's cooperation, professionalism, and excellent WordPress skills on this project made my job a lot easier. I hope to continue working with him."
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "Stefan was an excellent web designer and a professional communicator throughout the project. He kept in touch, responded well to requests and feedback, and produced a much more attractive WordPress site than what I previously had. Highly recommended."
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "I have hired him for the second time and the work was completed very well and quicker than expected. I will re-hire him for future needs on WordPress."
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "He did it very well. Full ready-to-use website, optimized and user friendly. Very thankful. I would recommend."
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ⭐⭐⭐⭐⭐ "The freelancer did the project within the expected deadline. Everything was great. Good Job."
-    </td>
-  </tr>
-</table>
+### ⭐ Client Reviews
+
+> ⭐⭐⭐⭐⭐ "Excellent communication and clarification of project goals. Timely delivery of excellent end product. Highly recommended. Will work with Stefan again!"
+
+> ⭐⭐⭐⭐⭐ "Stefan did a good job very quickly"
+
+> ⭐⭐⭐⭐⭐ "Stefan's cooperation, professionalism, and excellent WordPress skills on this project made my job a lot easier. I hope to continue working with him."
+
+> ⭐⭐⭐⭐⭐ "Stefan was an excellent web designer and a professional communicator throughout the project. He kept in touch, responded well to requests and feedback, and produced a much more attractive WordPress site than what I previously had. Highly recommended."
+
+> ⭐⭐⭐⭐⭐ "I have hired him for the second time and the work was completed very well and quicker than expected. I will re-hire him for future needs on WordPress."
+
+> ⭐⭐⭐⭐⭐ "He did it very well. Full ready-to-use website, optimized and user friendly. Very thankful. I would recommend."
+
+> ⭐⭐⭐⭐⭐ "The freelancer did the project within the expected deadline. Everything was great. Good Job."
+
 ### 💪 Work Philosophy
 
 I believe in:
