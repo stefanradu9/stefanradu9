@@ -10,10 +10,10 @@ I'm a Top Rated Plus developer on Upwork with over 10 years of full-time develop
 - **Dynamic Content Solutions**: 
   - Building advanced database relationships
   - Creating dynamic tables and charts
-  - Implementing Custom Post Types (CPT) and Custom Content Types (CCT)
-  - Developing paid membership websites without relying on plugins
+  - Implementing Custom Post Types (CPT),  Custom Content Types (CCT) and Taxonomies
+  - Developing paid membership websites, Advanced Dashboard panels with JetEngine, JetSmartFilters and JetFormBuilder
 - **Form & Integration Expertise**: 
-  - JetFormBuilder implementation for dynamic front-end and backend content management
+  - JetFormBuilder implementation for advanced dynamic front-end and backend forms
   - PDF generation capabilities
   - Payment gateway integrations
   - Advanced dynamic filtering with JetSmartFilters
@@ -43,10 +43,10 @@ I'm a Top Rated Plus developer on Upwork with over 10 years of full-time develop
 - **WordPress Core**: Advanced custom development, hooks, filters, and API integration
 - **Page Builders**: Elementor, Bricks, Gutenberg
 - **Crocoblock Suite**: JetEngine, JetFormBuilder, JetSmartFilters
-- **Performance Tools**: PerfMatters, FlyingPress, LiteSpeed, WP Rocket
+- **Performance Tools**: PerfMatters, FlyingPress, LiteSpeed, WP Rocket, ShortPixel XL.
 - **Development**: PHP, JavaScript, HTML5, CSS3
-- **Additional Tools**: GeneratePress, GenerateBlocks, Greenshift, Kadence Blocks, Cwicly, Stackable
-- **Design Integration**: Sketch, Figma, Adobe XD
+- **Additional Tools**: Bricks, Greenshift, Cwicly, Elementor
+- **Design Integration**: Figma, Sketch, Adobe XD, Adobe Photoshop
 
 ### 🎯 Specialized Services
 
@@ -54,6 +54,8 @@ I'm a Top Rated Plus developer on Upwork with over 10 years of full-time develop
 - Custom membership and payment systems
 - High-performance WordPress solutions
 - Complex filtering and search systems
+- Advanced Form logic and API Integration
+- Advanced PHP hooks for Forms that require additional features
 - PDF generation and form automation
 - Website speed optimization
 - Database optimization and query performance
@@ -61,8 +63,10 @@ I'm a Top Rated Plus developer on Upwork with over 10 years of full-time develop
 
 ### 🏆 Professional Achievements
 
-- [100% Job Success on Upwork, Top Rated Plus on 28 jobs, over 1600+ hours worked on dynamic wordpress websites](https://www.upwork.com/fl/~01608a15a9c0e0b092?mp_source=share)
-- Successfully delivered projects across E-Commerce, Manufacturing, Aviation, and Healthcare sectors
+- 100% Job Success on Upwork
+- Top Rated Plus in my category on 28 jobs on Upwork
+- Over 1600+ hours worked on dynamic wordpress websites on Upwork
+- Successfully delivered projects across E-Commerce, Manufacturing, and Healthcare sectors
 - Consistently maintained 90+ PageSpeed scores on complex dynamic websites
 - Developed scalable solutions handling large datasets with optimal performance
 - Created custom solutions for enterprise-level clients with complex requirements
@@ -88,4 +92,8 @@ I believe in:
 
 Looking to build a dynamic, high-performance WordPress solution? I specialize in creating custom, scalable websites that meet complex business requirements while maintaining optimal performance.
 
-Feel free to reach out to discuss how we can transform your WordPress project into a powerful, dynamic solution!
+<div align="center">
+  <a href="https://www.upwork.com/fl/~01608a15a9c0e0b092?mp_source=share">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Hire%20Me-success?style=for-the-badge&logoColor=white&logo=upwork" alt="Hire Me on Upwork" />
+  </a>
+</div>
