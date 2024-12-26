@@ -1,8 +1,12 @@
 # Hi there, I'm Stefan 👋
 
-## Elementor / Bricks / Gutenberg Dynamic Websites Expert | Crocoblock | JetEngine | WordPress Development Expert | Full-Stack Developer | Performance Optimization Specialist
-
 I'm a Top Rated Plus developer on Upwork with over 10 years of full-time development experience and a perfect 100% job success score. Since October 2022, I've dedicated over 1626 hours to creating dynamic and complex WordPress websites using JetEngine and advanced development techniques.
+
+## Expert in Dynamic Websites & Custom Solutions
+
+Page Builders: Elementor, Bricks, Gutenberg
+Specialized in: Crocoblock Suite & Advanced functionality for Dynamic Webites
+Focus: Advanced Functionality, Dynamic Websites, Full-Stack Development & Performance Optimization
 
 ### 🚀 JetEngine & Dynamic Development Expertise
 
