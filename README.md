@@ -75,7 +75,6 @@ Focus: Advanced Functionality, Dynamic Websites, Full-Stack Development & Perfor
 - Developed scalable solutions handling large datasets with optimal performance
 - Created custom solutions for enterprise-level clients with complex requirements
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> 
   Client Reviews
 </h3>
 
