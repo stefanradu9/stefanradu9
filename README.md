@@ -96,7 +96,7 @@ I believe in:
 
 Looking to build a dynamic, high-performance WordPress solution? I specialize in creating custom, scalable websites that meet complex business requirements while maintaining optimal performance.
 
-<div align="center">
+<div align="left">
   <a href="https://www.upwork.com/fl/~01608a15a9c0e0b092?mp_source=share">
     <img src="https://custom-icon-badges.demolab.com/badge/-Hire%20Me-success?style=for-the-badge&logoColor=white&logo=upwork" alt="Hire Me on Upwork" />
   </a>
